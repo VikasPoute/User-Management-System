@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UsermngApplication<usermng>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.spring.boot.usermng.UsermngApplication",
+            "projectName": "usermng",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
